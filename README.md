@@ -27,3 +27,6 @@ Getting Started
 5.  Run database migration  (npm run migrate)
 6.  Start the application ( npm start)
 7.  Testing (npm test)
+
+
+#N.B I did not Include the Postman collection APIs
